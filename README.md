@@ -1,3 +1,14 @@
+[^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky) (Synapse messed all of this up back in the day).
+[^2]: Client scripts need to be heavily fixed before booting up the game (while true do loops, malformed tables, separate script scopes properly, heavily reduce the number of local registers in certain scripts, etcetera). Not recommended for beginners.
+[^3]: Client scripts are NOT worth fixing.
+[^4]: Some or huge chunks of the map are missing.
+
+
+
+
+
+
+
 # **The Jailbreak Archive**
 Some Jailbreak place files that I have collected (or made) over time.
 
@@ -72,10 +83,7 @@ Maps that have been saved using exploits (Such as Synapse X).
 | [`CrimeMaker88's Place`](https://github.com/Syngio/JailbreakArchive/raw/refs/heads/indev/saveinstances/other/CrimeMaker88s%20Place.rbxl) | 2025 | Yes | N/A | N/A | Place that asimo made for giving out a vehicle code | Saved by `@ssroh` |
 | [`TEMPLATE`]() | XXXX | X | X | X | N/A | |
 
-[^1]: Some UI elements need to be manually fixed (such as ImageLabels with the Slice scale type), All TextLabels' transparency need to be set back to 0, and you gotta set all MeshParts & Unions' CollisionFidelity to Default (So collisions on them aren't janky) (Synapse messed all of this up back in the day).
-[^2]: Client scripts need to be heavily fixed before booting up the game (while true do loops, malformed tables, separate script scopes properly, heavily reduce the number of local registers in certain scripts, etcetera). Not recommended for beginners.
-[^3]: Client scripts are NOT worth fixing.
-[^4]: Some or huge chunks of the map are missing.
+
 
 ### **Re-scripts:**
 
